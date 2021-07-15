@@ -118,3 +118,5 @@ String className = ImageNetClasses.IMAGENET_CLASSES[maxScoreIdx];
 
 In the following sections you can find detailed explanations of PyTorch Android API, code walk through for a bigger [demo application](https://github.com/pytorch/android-demo-app/tree/master/PyTorchDemoApp),
 implementation details of the API, how to customize and build it from source.
+
+Jul15: abel to run it on emulator, not on phone
