@@ -40,6 +40,7 @@ If [Android SDK](https://developer.android.com/studio/index.html#command-tools) 
 ```
 ./gradlew installDebug
 ```
+(note: I couldn't use this command, but I opened the HelloWorldApp folder in Android Studio and clicked "Run App" and it worked on emulator.)
 
 We recommend you to open this project in [Android Studio 3.5.1+](https://developer.android.com/studio) (At the moment PyTorch Android and demo applications use [android gradle plugin of version 3.5.0](https://developer.android.com/studio/releases/gradle-plugin#3-5-0), which is supported only by Android Studio version 3.5.1 and higher),
 in that case you will be able to install Android NDK and Android SDK using Android Studio UI.
